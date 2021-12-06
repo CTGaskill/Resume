@@ -1,0 +1,11 @@
+fonts
+src/cv
+src/fonts
+awesome-cv.cls
+cv.aux
+cv.log
+cv.out
+cv.synctex.gz
+fontawesome.sty 
+LICENCE
+Makefile

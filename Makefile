@@ -3,7 +3,8 @@
 CC = xelatex
 EXAMPLES_DIR = /src/cv
 RESUME_DIR = /src/cv/resume
-CV_DIR = /src/cv/cv
+CV_DIR = /src/cv
+OUTPUT_DIR= /Resume
 RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
 CV_SRCS = $(shell find $(CV_DIR) -name '*.tex')
 
