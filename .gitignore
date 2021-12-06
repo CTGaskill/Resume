@@ -1,6 +1,6 @@
-fonts
-src/cv
-src/fonts
+fonts/*
+src/cv/*
+src/fonts/*
 awesome-cv.cls
 cv.aux
 cv.log
